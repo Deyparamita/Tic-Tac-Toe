@@ -2,6 +2,9 @@
 
 This is a TicTacToe app where two user can play this game.
 
+## Image of Tic-Tac-Toe
+![TicTacToe](./src/assets/TicTacToe_img.png)
+
 ## Technologies Used:
 React Js and CSS
 
